@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/linchpin-logo.png" alt="Linchpin" width="280" />
+  <img src="header2.png" alt="Linchpin" width="280" />
 </p>
 
 <p align="center">
