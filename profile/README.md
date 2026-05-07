@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linchpin.land">linchpin.land</a>
+  <a href="https://linchpinland.com">linchpinland.com</a>
 </p>
 
 ---
